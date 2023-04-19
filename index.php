@@ -1,5 +1,5 @@
 <?php 
-    
+    echo "hola";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +13,7 @@
     <script src="JS/bootstrap.min.js" type="text/javascript"></script>
 </head>
 <body>
-    <h1> Bienvenido </h1>
+    <h1> Bienvenido111 </h1>
     <form>
         <label for="usuario">Usuario</label> 
         <input type="text" name="usuario" id="usuario">
