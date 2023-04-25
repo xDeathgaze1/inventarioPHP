@@ -1,7 +1,10 @@
 <?php 
-    if(isset($_POST['usuario'])){
-        echo $_POST['usuario'];
+
+    if(isset($_POST['usuario']) && isset($_POST['password'])){
+        echo "funciona";
     }
+
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
